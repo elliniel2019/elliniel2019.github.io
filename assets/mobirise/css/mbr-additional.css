@@ -2041,3 +2041,15 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-rvrDTlLoLy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rvrDTlLoLy .mbr-text,
+.cid-rvrDTlLoLy blockquote {
+  color: #767676;
+}
+.cid-rvrDTlLoLy .mbr-text {
+  text-align: center;
+}
